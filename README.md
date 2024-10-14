@@ -1,4 +1,4 @@
-FitBit Fitness Tracker App Data Analysis
+FitBit Fitness Tracker App Data Analysis: 
 This project focuses on analyzing user data from the FitBit Fitness Tracker App, collected through a distributed survey. The dataset includes information from 33 users across 18 sources, covering daily and hourly activity, calories burned, steps taken, heart rate, sleep patterns, and weight logs.
 
 Project Highlights:
